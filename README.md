@@ -16,13 +16,13 @@ Hedgehog World Telegram RPG Bot создает захватывающий опы
 
 ## Скриншоты
 
-![Пример1](screenshots/example1.png)
+![Пример1](screenshots/example1.jpg)
 *Описание к первому скриншоту*
 
-![Пример2](screenshots/example2.png)
+![Пример2](screenshots/example2.jpg)
 *Описание ко второму скриншоту*
 
-![Пример3](screenshots/example3.png)
+![Пример3](screenshots/example3.jpg)
 *Описание к третьему скриншоту*
 
 ## Как использовать
